@@ -1,1 +1,1 @@
-Created using React JS and some packagesLink : https://modernised-weather.netlify.app/
+https://modernised-weather.netlify.app/
