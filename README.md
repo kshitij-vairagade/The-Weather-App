@@ -1,1 +1,1 @@
-Weather App created using React and some p 
+Weather App created using React and some packages
